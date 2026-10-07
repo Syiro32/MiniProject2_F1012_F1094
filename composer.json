@@ -1,0 +1,16 @@
+{
+    "name": "irfan/mini-project1",
+    "description": "Mini Project 1",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "irfan",
+            "email": "razaliirfan079@gmail.com"
+        }
+    ],
+    "require": {}
+}
